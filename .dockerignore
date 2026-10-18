@@ -1,0 +1,12 @@
+node_modules
+.next
+.env*
+.claude
+.git
+mock
+.agents
+.codex
+.aws
+scripts
+CODEX-REPORT-*.md
+*.tsbuildinfo

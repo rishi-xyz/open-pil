@@ -1,0 +1,17 @@
+services:
+  web:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_PRIVY_APP_ID: ${NEXT_PUBLIC_PRIVY_APP_ID:-}
+        NEXT_PUBLIC_REGISTRY_ADDRESS: ${NEXT_PUBLIC_REGISTRY_ADDRESS:-}
+        NEXT_PUBLIC_TIRAMISU_RPC_URL: ${NEXT_PUBLIC_TIRAMISU_RPC_URL:-https://rpc.tiramisu.db-chain.testnet.arkiv.network}
+    env_file: .env.local
+    ports:
+      - "${OPENPIL_PORT:-3400}:3000"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/').then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
+      interval: 30s
+      timeout: 10s
+      start_period: 30s
+      retries: 3

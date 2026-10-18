@@ -1,0 +1,255 @@
+{
+  "runs": {
+    "openpil-demo-r2-2026-10-18": {
+      "registry": "0xcBC4caBF5Fbb766ee1796E2Bb5EaEa98a445E14f",
+      "organisations": {
+        "municipal": {
+          "key": "0x47e46db323cf5e6ff43d75bf54b937488284a40e6103e0b4283bda4b52fdc802",
+          "txHash": "0xdcd9454f1eaec5d4170b0eea14924891a77b36e85e8dbbd0a510b51c881aa3c4"
+        }
+      },
+      "cases": {
+        "wp-c-4127-2026": {
+          "pil": {
+            "key": "0xfd6063fc2d7674a1bb6fe2a771f4f8c4bfe257555321755a3d918cc1c2031b18",
+            "txHash": "0x7900d0bc224a90e25af441331981e80ed316bac092c1c636871ba15ac2addd25"
+          },
+          "pending": {
+            "key": "0x5352652ae7cb9b1a987a1f96fccc472e448f4a246e8995e1c6039678e607ab5b",
+            "txHash": "0x7900d0bc224a90e25af441331981e80ed316bac092c1c636871ba15ac2addd25"
+          },
+          "due": 1792944317629,
+          "response": {
+            "key": "0x4917ad071f4cdb8283508c9510a5f2afc45e8d6cbbc09e292df608416293a063",
+            "txHash": "0x786bfa00bc60296d5046156781094df3ba59afa046d9a377494a2bb508d19a08"
+          }
+        },
+        "pil-71-2026": {
+          "pil": {
+            "key": "0xeba3fd33adf1dfc8b54dc6164cd79c6175d138d46f78e60d9da673cbd06691c6",
+            "txHash": "0x72f51c7579bf485eb644bf5f1353a19fc3416e218421f894a17f09316cbbe0e9"
+          },
+          "pending": {
+            "key": "0x834c295f43a36b7ad5942abf850b0a1b5c5fee2b3829a26f760c5a117f78de45",
+            "txHash": "0x72f51c7579bf485eb644bf5f1353a19fc3416e218421f894a17f09316cbbe0e9"
+          },
+          "due": 1792944332456,
+          "response": {
+            "key": "0x5792d1596745106ee00330edd34f263a991eb28d1ce2dae73ba0f11aed64b88f",
+            "txHash": "0x8a8ecd6569a493154f23d94a0933e87faa9f6c60e41fb84054cd8f55051be9a5"
+          }
+        },
+        "pil-88-2026": {
+          "pil": {
+            "key": "0x26f385650005af439ca378cf6d11aa7b0a9906b06edb7f3c0681605a9d7375f3",
+            "txHash": "0x733ee438239f7d70f32a94026314407680a660eb76e6cfa8687c598cb9c51d55"
+          },
+          "pending": {
+            "key": "0xebd9268b90a5495974897d25b027721a10a31476a6356a6115397d37ce08484b",
+            "txHash": "0x733ee438239f7d70f32a94026314407680a660eb76e6cfa8687c598cb9c51d55"
+          },
+          "due": 1792425946947,
+          "adjournment": {
+            "key": "0x145a132cb4dea0d4222ae7e0cfa0de074cecdab5b62e159efaaf245488e1b9ef",
+            "txHash": "0x39b5fcd8d27bb92a32438cc6b23727e8f877af125acb9dca99617ebf4f44357b"
+          }
+        },
+        "wp-c-5310-2026": {
+          "pil": {
+            "key": "0x0a320ad38a1a654fceaa30c7f64e768ae1b9e5d67918f88da7aed1b85b0db73a",
+            "txHash": "0x7d56e6eb74ca12e52f42dc5bbfa8d1bfc8c80899705dbba50bc383378eb2b2b1"
+          },
+          "pending": {
+            "key": "0x602eaf94361c317cc4c82df238d1d4bfeaab595e8fcf7ab9742e2349a467a924",
+            "txHash": "0x7d56e6eb74ca12e52f42dc5bbfa8d1bfc8c80899705dbba50bc383378eb2b2b1"
+          },
+          "due": 1793549161231
+        },
+        "wp-c-3986-2026": {
+          "pil": {
+            "key": "0x20dc03ec758920dc7f0c6b293106d74208080a0e434b39ae03e77589c884bfb1",
+            "txHash": "0x41dba6ff095a3cc94856a6dcd70eaaf9fc9e049e8cb103ddf3e4715802c09743"
+          },
+          "pending": {
+            "key": "0xb4166706b5f5a23c407f36a85562c0e7f2ca986210b3860dd8f67eb26a1096fc",
+            "txHash": "0x41dba6ff095a3cc94856a6dcd70eaaf9fc9e049e8cb103ddf3e4715802c09743"
+          },
+          "due": 1792339658370
+        },
+        "pil-102-2026": {
+          "pil": {
+            "key": "0x5fa3280fa9d28c02de46632c9c648c7f23852966d37c659c655590010cd52aed",
+            "txHash": "0xed9b33a3c1191f55ae50aa9be8c07bf005a740146d996bd84a8c76676b5d9022"
+          },
+          "pending": {
+            "key": "0x8c0254c14fa1942ed8234258ebad7187b787cda8982ebd4ba228181c99f4ee1c",
+            "txHash": "0xed9b33a3c1191f55ae50aa9be8c07bf005a740146d996bd84a8c76676b5d9022"
+          },
+          "due": 1792339665285
+        }
+      }
+    }
+  },
+  "openpil-demo-r3": {
+    "registry": "0xcBC4caBF5Fbb766ee1796E2Bb5EaEa98a445E14f",
+    "cases": {
+      "r3-1": {
+        "petition": "0xe42ae46964943ec7e364498d27ffb47270712dfbf3fcb532453ed858d43b84f4",
+        "review": "0x38fd6961ad7b4f0b7ecce1afc5b3cd4cc9c0a3fa3f038127bb0d314e7fc5f3e5",
+        "txHashes": [
+          "0x673472355bac212a4861d9ede8f43235c81986e67ea73e91e58f2e2af24a5d5b"
+        ],
+        "complete": true
+      },
+      "r3-2": {
+        "petition": "0xefc5d1748f9ab4456cbcaf08b2854cd90016843dd92ecab0ba048f79f3b3e51a",
+        "review": "0xe1313df19f6f0c7b89bbba3407494152e69348e22db0c8a78dca9792a6f226d7",
+        "txHashes": [
+          "0xf74978eb3edec5779b10ad0f4e743ddb44a3c16e1eb39ae2334decfa0e544d3c",
+          "0xcde3e8278ddac325b30d2523d21825cdbe613f136e8f8a75361df748b6d2dd6f"
+        ],
+        "extension": "0x7a5094e26a6949f1c12646fbcf5a289eb00b5b0628b03bc3384e1130f82c27a9",
+        "complete": true
+      },
+      "r3-3": {
+        "petition": "0x14fd0983e84e47ba8c43b56e0988a10579dbd368e68362245f7d37f1316cfd08",
+        "review": "0x59df2450b6a0d98ae5218b5c4a314610bc09630cf22a37379b8e153e92ba828a",
+        "txHashes": [
+          "0xbe0105d70d0c1705edb1fe448d0a267587fa1a19e4f9744e03eeb3d8f84e7dbc",
+          "0x8ed618427c72b449768919abca302c3b77dbca0b9453fd8625847c66805806cf"
+        ],
+        "decision": "0xb637f12bfb3151155f789419101c7e41c60380da2da74caec92920a718204db0",
+        "complete": true
+      },
+      "r3-4": {
+        "petition": "0x84e90b2be1842804dea343aca5d5d8b4f60e580023d94521bc0a7b144896e7ae",
+        "review": "0x8103a0ddab5bb639b5a72f1949f725dae215a0b8a9ec48a27fb5a43407ddd7d6",
+        "txHashes": [
+          "0xd9295f505c380841e564c7facf0f8ae4e17e0839dadb3ba4337f0a40049e484f",
+          "0x1b75a61cc2bc64f812475f31918e405d183b08ec43f8aa437c3d693c0cd2cae0"
+        ],
+        "decision": "0x8667f2a5b4bd1f65cc1f642addb2b5fc063f1ae61dde419cf807f692af0e32ca",
+        "complete": true
+      },
+      "r3-5": {
+        "petition": "0xd7613259d1e4f41da1c674010e9465c932a4d3b1b0a5e47bca82361f5c287108",
+        "review": "0xb273d72238068c0f641480782669aaef55d88349d99a1c7466c54c6802b78941",
+        "txHashes": [
+          "0x1de5c5753a0eed0e116ce73f527c249a32277fee83c13ad550413e5914e17a75",
+          "0xff1d0e0c972447752177b27438a081d645c63cafc2164d55141a493ea7b45760"
+        ],
+        "decision": "0x6062deba107b2768ee2a8ca394714c09a12fade5cfe6b215822c50093ade8e13",
+        "complete": true
+      },
+      "r3-6": {
+        "petition": "0xd296f7badfa6253b076c48e3ba2a8f4583f587ba3c9c7d76626c0d1b74651a06",
+        "review": "0x36563a33da8d6e280aaae597fa278557342e530eb1bfc6d00a8a6b73e91890dc",
+        "txHashes": [
+          "0xed9ff1f1fda2f2d61c76fb9532c3de34700e740a4cad2ec7af9ba051d63cefb6",
+          "0x4f23f5628e5916e872b4a5e03fcd2c64f301b7b8ad2c46388f630f908d0a6b4c"
+        ],
+        "decision": "0x2e6417ae7127fc882c8dcbe3de5a1a9cb160debdd7e2179a6e5b9dc3a3ff3e30",
+        "complete": true
+      },
+      "r3-7": {
+        "petition": "0x2a32b08ab9ac54b3df6a1bc8623c33efccdb6778866e01a48273a4ab2a524114",
+        "txHashes": [
+          "0xafd8253b2a1b639ad468cf8f830541f7883967ff0f1c45762e2a1af07f06e59b"
+        ],
+        "complete": true
+      },
+      "r3-8": {
+        "petition": "0x65d2d59f6a96ffd2e6bb58ad6c768d728e5f43ae97dc189346b97e953fb17f22",
+        "txHashes": [
+          "0x59129cb0693161c1bf6ee95ea9b99950451b753781a944cede4aa48ba80319be"
+        ],
+        "complete": true
+      }
+    },
+    "court": {
+      "key": "0xdd3d771e98041d5a5b87af153650601d28f8bf5fd6f01bccf942d78604f0b4df",
+      "txHash": "0x9ef80e08b4de01962693dab8d847680740c2e113836281c0b545696c5523ec07"
+    }
+  },
+  "openpil-demo-r3b": {
+    "registry": "0xcBC4caBF5Fbb766ee1796E2Bb5EaEa98a445E14f",
+    "cases": {
+      "r3-1": {
+        "petition": "0x17277fc05a0f70205a7bdcbdfd58559a205bd1ec5a0c880d52443fb75505f4b2",
+        "review": "0x444582c4e4a17b99ea245394dd47945ab5bc739333ec412830678b89cbe7f245",
+        "txHashes": [
+          "0xbbb12346bdc47ec53c1870f333c063207c5684801ccf06b878663ae884f48c5b"
+        ],
+        "complete": true
+      },
+      "r3-2": {
+        "petition": "0xd18b27c45a87b7365dc2cb9b07f81b16df856f2332b2e066d880b2c26248b914",
+        "review": "0xcfb342273c8912f273bb832bf06d5c7b49e6c01e39b950e5536fc4209e412e8d",
+        "txHashes": [
+          "0x8abfb24f41a61789213460aa58fd789e119275c151d624e8eeda88149f40400c",
+          "0xd7ae17b61c51356da826fb6ffffc944d741c1cbf3ba1db1f92285cafe7783b97"
+        ],
+        "extension": "0xc05698fe24e6d9f082113bc59d76b08d1569e5be34d9d9d587c12e4716711412",
+        "complete": true
+      },
+      "r3-3": {
+        "petition": "0x8990360782c2276d8c066006e5d77a0ece27438230457ba1d90dad5a01a781e7",
+        "review": "0x124daeaf2633bfc010a935956c14d08ae2e9519838dfe5dcc12eaa47782f0876",
+        "txHashes": [
+          "0xd5110a6dee1e155199d8365bea7525043c21bef25a2c0d7bcd84e5b48304bd84",
+          "0xbd40881d37e4765d3640a9716d958fc59e71ef9f5e87800a43ab638f816593dd"
+        ],
+        "decision": "0xd71ffbc31705a32982dd3aabb8e48895a92d098d41448f173fe79aa3c7b3dcad",
+        "complete": true
+      },
+      "r3-4": {
+        "petition": "0x916515206d0c055b5a49f450b1037dd6da79df50e1d2214cd7b3bb254adeeb9b",
+        "review": "0x0640f5b59b02eaa3a4059e1eb6410294401ad51f52b0dc4ba837739f84d27bc0",
+        "txHashes": [
+          "0x4cfbb216f30e66a11d1005f941529313fa1b86c1e3aaeb34a2530d2337c01a64",
+          "0xea40ee343e93b6caed845461d0cec3aff68605a75b8fe6a0cf287190a95f4ab6"
+        ],
+        "decision": "0xabab297032e40efb92e4d4680a5011ab93483bd0c1fe3ab893d78ab7769d0984",
+        "complete": true
+      },
+      "r3-5": {
+        "petition": "0xe79c0b8759e1ff17df9c3c35897cfed9777988be769558c2ec5d86544fef9d6f",
+        "review": "0x91ca0aa60f9827ba78c2948ca00fa7c6a25fb25131f2eab4b8bedd75ce9a2e1a",
+        "txHashes": [
+          "0x21acb6d520303ab0b531fe83887936de6b8df54f370f76f95b1aed2151b493c5",
+          "0xe1a8e6a1f3962f2cfd8e080d9347eb686ec0c249ff8128df8cc463155bca9602"
+        ],
+        "decision": "0x6f14833b9e3efa1d1706b8b5615bf456e488b3ccaf5abd2ae32decef366d652a",
+        "complete": true
+      },
+      "r3-6": {
+        "petition": "0xbc95f1f6192a13780138f372633c2a7cf32dd605072f277e2fc616150c6fe619",
+        "review": "0xef115980acc19083844d11490678cc3e1c756b851414ad1b56f45cf235eb63ae",
+        "txHashes": [
+          "0x1298f595ee516c6e22d8d5ffe63bc85d6636d9da0ae73d8ae19b5488892d4695",
+          "0x8a8a90719cb5f091ce17a65f3cc84806abcf6521cdd352b94c28823d0132dfa9"
+        ],
+        "decision": "0x77935e5587817533e208c87be60ad36c216a21c909ea27b2870db876788558ea",
+        "complete": true
+      },
+      "r3-7": {
+        "petition": "0x086d40eb059b65e4868a4e00fd2472d6ebaa3f4e51fee1038681747020bb18cb",
+        "txHashes": [
+          "0xcafcb213d498cec729ad4d414e15c06e584b23ae43292d0cc6576093961b3a04"
+        ],
+        "complete": true
+      },
+      "r3-8": {
+        "petition": "0x48f959f4bc40ecc7ea7472c7955d024f9ac34d1fbe787e5e3fee135e1c1b489f",
+        "txHashes": [
+          "0x9b9b1ece28925ab207f932310537199a57d3edcb4db3d318b7ca2c91f101ba9e"
+        ],
+        "complete": true
+      }
+    },
+    "court": {
+      "key": "0xdd3d771e98041d5a5b87af153650601d28f8bf5fd6f01bccf942d78604f0b4df",
+      "txHash": null
+    }
+  }
+}
