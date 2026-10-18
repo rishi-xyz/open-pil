@@ -2,11 +2,11 @@
 
 Public markdown petitions with independently queryable court decisions and expiring review leases on Arkiv.
 
-Live demo: <DEPLOY_URL>
+Live demo: https://openpil.rishixyz.com/
 
-Public repository: <REPO_URL>
+Public repository: https://github.com/rishi-xyz/open-pil
 
-Demo video: <VIDEO_URL> (at most 3 minutes).
+Demo video: [Video](https://youtu.be/KH0s4pFzajw).
 
 ## Why India
 
